@@ -10,7 +10,7 @@ I utilized the Fashion MNIST dataset, which consists of grayscale images of vari
 
 ## Model Architecture
 
-The Generative Adversarial Networks (GANs) consist of:
+The Generative Adversarial Networks (GANs) contain:
 
 1. **Generator network**: This network takes random noise as input and generates synthetic fashion images. It consists of upsampling layers, convolutional layers, and activation functions.
 
